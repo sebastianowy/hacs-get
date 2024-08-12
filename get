@@ -11,6 +11,7 @@ declare haPath
 declare -a paths=(
     "$PWD"
     "$PWD/.homeassistant"
+    "/data/data/com.termux/files/home/.homeassistant"
     "$PWD/config"
     "/config"
     "/homeassistant"
